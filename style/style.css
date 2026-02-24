@@ -76,6 +76,9 @@ main >section{
     width: 100%;
 }
 /* team and feature style */
+.features{
+    gap: 100px;
+}
 .teams{
     align-items: center;
 
@@ -93,6 +96,27 @@ main >section{
 #quick-list{
     font-weight: 500;
     color: #727272
+}
+/* feature section reloted style */
+#features-section-title{
+    border-left: solid 5px #FF900E;
+    padding-left: 20px;
+    
+}
+.feature-card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px rgba(30, 30, 30, 0.06);
+    margin: 20px;
+
+
+
+}
+.feature-card,.feature-title{
+    font-weight: 600;
+    font-size: 1.26rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 /* faccts related style  */
 .facts-container{
