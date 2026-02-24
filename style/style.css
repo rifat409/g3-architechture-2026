@@ -18,6 +18,10 @@ main{
 main >section{
     margin-top: 130px;
 }
+.section-title{
+    font-weight: 700;
+    font-size: 2.8rem;
+}
 .text-primary{
     color: #FF900E;
 }
@@ -85,10 +89,7 @@ main >section{
     margin-left: 130px;
     max-width: 530px;
 }
-.feature-title{
-    font-weight: 700;
-    font-size: 2.8rem;
-}
+
 #quick-list{
     font-weight: 500;
     color: #727272
